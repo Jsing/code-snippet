@@ -1,2 +1,2 @@
-## code-snippet
+## study-stream
 2021년 부터 개발에 사용했거나 공부한 코드들을 정리합니다.
